@@ -68,7 +68,7 @@ Logo em seguida abrirá novamente outro arquivo para edição da mensagem do com
 
  **`git push --force`**
 
- Pronto alteração da mensagem concluida e disponivel para os outros servidores ! . \o/
+ Pronto alteração da mensagem concluida e disponivel no servidor remoto ! . \o/
 
 
  #### **PARABENS !!!**
