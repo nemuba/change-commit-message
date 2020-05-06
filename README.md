@@ -80,3 +80,5 @@ Logo em seguida abrirá novamente outro arquivo para edição da mensagem do com
  **github:** [nemuba](https://github.com/nemuba).
 
  **linkedin:** [alef-ojeda](https://www.linkedin.com/in/alef-ojeda/).
+
+ **Facebook:** [Alef Ojeda de Oliveira](https://www.facebook.com/AlefOjedaOliveira/)
